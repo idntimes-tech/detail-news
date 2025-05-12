@@ -1,0 +1,2 @@
+# idntimes-tech
+# detail-news
